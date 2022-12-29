@@ -1,0 +1,20 @@
+.NavBar {
+    background-color: rgb(19, 18, 19);
+    
+  }
+  ul{
+    margin: 0;
+    padding: 25px;     
+    display: flex;
+    justify-content: flex-end;      
+  }
+  li{
+    color: white;
+    padding: 0 10px 0 10px;
+    list-style: none;
+  }
+  li:hover{
+    color:tomato;
+  }
+
+  
