@@ -1,0 +1,23 @@
+
+#navbarScroll{
+  
+  justify-content: space-evenly;
+}
+.listaNavBar{
+    margin: 0;
+    padding: 25px 0 25px 0;     
+    display: flex;        
+    list-style: none;    
+    
+    gap: 80px;
+  }
+  li{
+    font-size: larger;
+    color: white;
+    padding: 0 10px 0 10px;    
+  }
+  li:hover{
+    color:tomato;
+  }
+
+  

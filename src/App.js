@@ -1,8 +1,9 @@
 
 import './App.css';
-import './components/CartWidget';
-import NavBar from './components/NavBar'
-import ItemListContainer from './components/ItemListContainer'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './components/CartWidgets/CartWidget';
+import NavBar from './components/NavBar/NavBar'
+import ItemListContainer from './Pages/ItemListContainer/ItemListContainer'
 
 
 function App() {

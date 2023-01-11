@@ -1,0 +1,12 @@
+.botonesCount{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.controlador{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding: 10px;
+}
